@@ -33,13 +33,3 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-div.leftside {
-    width: 414px;
-    padding: 0px 3px 0px 0px;
-    float: left;
-}
-
-div.rightside {
-    margin-left: 425px;
-}
